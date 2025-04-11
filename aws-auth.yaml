@@ -9,11 +9,11 @@ data:
   mapUsers: |
     - groups:
       - default-trainee
-      userarn: arn:aws:iam::315069654700:user/suresh
+      userarn: arn:aws:iam::717279725557:user/suresh
       username: suresh
 kind: ConfigMap
 metadata:
   creationTimestamp: "2025-03-14T01:43:26Z"
   name: aws-auth
   namespace: kube-system
-  uid: 50845162-1701-4375-9fdd-e93f835164a1
+  uid: 334cbbae-e29b-4331-9389-fb02a92a82a7
